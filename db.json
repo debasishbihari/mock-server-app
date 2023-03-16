@@ -4,5 +4,15 @@
         "id":1,
         "name":"dev"
       }
+    ],
+    "users":[
+      {
+        "id":1,
+        "name":"dummy",
+        "username":"dummyuser",
+        "email":"dummy",
+        "password":"dummy"
+
+      }
     ]
   }
