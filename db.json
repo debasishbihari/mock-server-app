@@ -60,5 +60,11 @@
         "age": 20,
         "email": "cnorssister9@mayoclinic.com"
       }
+    ],
+    "my_data":[
+      {
+        "id":1,
+        "name":"dev"
+      }
     ]
   }
