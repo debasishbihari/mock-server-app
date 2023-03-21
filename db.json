@@ -6,7 +6,11 @@
       }
     ],
     "users":[
-      
+      {
+        "username":"dummy",
+        "email":"dummy@example.com",
+        "password":"dummy"
+      }
     ]
     
   }
